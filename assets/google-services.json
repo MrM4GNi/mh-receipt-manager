@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568575958633",
+    "firebase_url": "https://besafe-official-default-rtdb.firebaseio.com",
+    "project_id": "besafe-official",
+    "storage_bucket": "besafe-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568575958633:android:a7bf0c0be5604e75f28cf8",
+        "android_client_info": {
+          "package_name": "com.iamdimdev.mobilehouseholdreceipttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568575958633-p6rhul6v7ai0nlhoqkjpf17b8fe9srtm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8g7d1y3VGfie3YDu8Zr10-HYtag1DmQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568575958633-p6rhul6v7ai0nlhoqkjpf17b8fe9srtm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

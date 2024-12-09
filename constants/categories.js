@@ -1,0 +1,8 @@
+const categories = {
+    Groceries: ['groceries', 'food', 'supermarket', 'snack', 'produce', 'banana', 'can', 'burger', 'mcdonalds', 'jolibee', 'sm', 'puregold', 'fruits', 'WALL-MART-SUPERSTORE', 'sm', 'market', 'supermarket', 'sardinas', 'noodles', 'skyflakes', 'royal', 'mismo', 'shampoo', 'piattos', 'kopiko', '3 in 1', 'yelo', 'coke', 'coke mismo', 'royal mismo', 'zonrox', 'pakwan', 'mangga', 'manggo', 'pineapple', 'apple', 'melon', 'fish', 'sibuyas', 'kamatis', 'luya', 'kalabasa', 'ubas', 'saging', 'lansones', 'duhat', 'langka', 'mansanas', 'carrots', 'karots', 'repolyo', 'baboy', 'pig', 'patatas', 'tomato', 'kangkong', 'chips', 'sitaw', 'isda', 'hipon', 'hotdog', 'itlog', 'egg', 'ariel', 'toyo', 'suka', 'paminta', 'mantika', 'oreo', 'patis', 'bawang'],
+    House: ['rent', 'mortgage', 'utilities', 'maintenance', 'furniture', 'Tv', 'CCTV', 'Fan', 'Construction Syupply', 'chb 4', 'rizal', 'sp blade' , 'cmn', '12 mm', '10 mm', 'tie wire', 'chb #4', '2x3x 10 coco', 'level hose white', 'level hose green', 'cabra small', '16 mm', 'pvc', 'elbow', 'tee', 'p-trap', 'hardware', 's.m.olaivar hardware', 's.m.olaivar', 'Construction', 'Supply', 'tie', 'wire', '12', 'mm', '10', '#4', 'chb', 'level', 'hose', 'cabra', 'small'],
+    Transportation: ['gas', 'fuel', 'bus', 'taxi', 'uber', 'train', 'parking', 'trip', 'number of tickets', 'parking', 'tickets', 'fee', 'fare', 'manila automated fare', 'shell', 'uno fuel', 'petron'],
+    Utilities: ['electricity', 'water', 'internet', 'phone', 'gas bill', 'electric', 'meralco', 'loan', 'dues', 'rent', '7-connect'],
+};
+
+export default categories;

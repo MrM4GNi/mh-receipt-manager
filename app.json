@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "mobile-household-receipt-tracker",
+    "slug": "mobile-household-receipt-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/splash2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.iamdimdev.mobilehouseholdreceipttracker",
+      "permissions": ["NOTIFICATIONS", "VIBRATE", "INTERNET"],
+      "googleServicesFile": "./assets/google-services.json"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9b99bf8f-5fd9-4332-9330-b073bc5f657c"
+      }
+    }
+  }
+}
